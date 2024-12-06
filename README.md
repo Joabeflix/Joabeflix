@@ -1,4 +1,4 @@
-# 👨‍💻 Joabe - Desenvolvedor e Criador de Conteúdo  
+# 👨‍💻 Joabe - Desenvolvedor
 
 ### 🌟 Sobre Mim  
 Olá! Sou Joabe, um entusiasta de tecnologia e programação, atualmente explorando o universo do desenvolvimento de software e compartilhando minha jornada com o mundo. Trabalho com e-commerce, sou iniciante em programação, e tenho um grande interesse em Python. Além disso, tenho projetos paralelos em áreas como automação de processos.  
